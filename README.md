@@ -26,7 +26,7 @@ I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructur
 
 - **Languages:** Python, C/C++, TypeScript (Node.js), C# (ASP.NET)
 - **AI & Machine Learning:** PyTorch, Scikit-learn, LangChain, OpenAI/Gemini APIs, Document AI, Ollama
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Azure, Linux Systems, Docker
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Azure, Linux Systems, Docker, Kubernetes, Github Actions
 - **Databases:** PostgreSQL, MongoDB, SQL Server, Oracle
 
 ---
