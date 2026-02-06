@@ -25,8 +25,8 @@ I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructur
 ### 🛠 Tools & Technologies
 
 - **Languages:** Python, C/C++, TypeScript (Node.js), C# (ASP.NET)
-- **Frontend** Javascript, React, Nextjs
-- **Backend Framework** Expressjs, Nestjs, ASP .NET Core / Framework, FastAPI, Flask.
+- **Frontend:** Javascript, React, Nextjs
+- **Backend Frameworks:** Expressjs, Nestjs, ASP .NET Core / Framework, FastAPI, Flask.
 - **AI & Machine Learning:** PyTorch, Scikit-learn, LangChain, OpenAI/Gemini APIs, Document AI, Ollama
 - **Cloud & DevOps:** Google Cloud Platform (GCP), Azure, Linux Systems, Docker, Kubernetes, Github Actions
 - **Databases:** PostgreSQL, MongoDB, SQL Server, Oracle
