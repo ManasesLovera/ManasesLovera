@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Manasés Lovera 👋
 
 <!--
 **ManasesLovera/ManasesLovera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Software Engineer at Tagshelf
+I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructure**, and **Low-level Systems**. I spend my time building intelligent automation and exploring the depths of Linux.
+
+---
+
+### 🛠 Tools & Technologies
+
+- **Languages:** Python, C/C++, TypeScript (Node.js), C# (ASP.NET)
+- **AI & Machine Learning:** PyTorch, Scikit-learn, LangChain, OpenAI/Gemini APIs, Document AI, Ollama
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Azure, Linux Systems, Docker
+- **Databases:** PostgreSQL, MongoDB, SQL Server, Oracle
+
+---
+
+### 🚀 What I'm working on
+- **[stora](https://github.com/ManasesLovera/stora):** Building a multi-tenant e-commerce platform with FastAPI and Nextjs.
+- **[bank-agent](https://github.com/ManasesLovera/bank-agent):** Developing an AI-powered agent to process and track bank notifications.
+
+---
+
+### 🎯 Learning Path & Goals
+- **Current Focus:** Mastering the Linux kernel & systems administration.
+- **Languages:** Get hands on experience in **Golang** for high-performance CLI tools and Backend Apps.
+- **AI:** Scaling from ML to advanced **Deep Learning** architectures.
+- **Aspirations:** Contributing to Open Source and building the next generation of AI-driven process automation.
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** https://linkedin.com/in/manaseslovera
+- **Portfolio:** https://mlovera.dev // Still not deployed LOL
+
+*"Automating the boring stuff, one AI agent at a time."*
