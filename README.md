@@ -40,7 +40,7 @@ I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructur
 ---
 
 ### 🎯 Learning Path & Goals
-- **Current Focus:** Mastering the Linux kernel & systems administration.
+- **Current Focus:** Mastering the Linux, Cloud Infrastructure & systems administration.
 - **Languages:** Get hands on experience in **Golang** for high-performance CLI tools and Backend Apps.
 - **AI:** Scaling from ML to advanced **Deep Learning** architectures.
 - **Aspirations:** Contributing to Open Source and building the next generation of AI-driven process automation.
