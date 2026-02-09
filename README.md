@@ -34,8 +34,8 @@ I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructur
 ---
 
 ### 🚀 What I'm working on
-- **[stora](https://github.com/ManasesLovera/stora):** Building a multi-tenant e-commerce platform with FastAPI and Nextjs.
-- **[bank-agent](https://github.com/ManasesLovera/bank-agent):** Developing an AI-powered agent to process and track bank notifications.
+- **<a href="https://github.com/ManasesLovera/stora" target="_blank">stora</a>:** Building a multi-tenant e-commerce platform with FastAPI and Nextjs.
+- **<a href="https://github.com/ManasesLovera/bank-agent" target="_blank">bank-agent</a>:** Developing an AI-powered agent to process and track bank notifications.
 
 ---
 
