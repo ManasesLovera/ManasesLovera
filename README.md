@@ -49,6 +49,6 @@ I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructur
 
 ### 📫 Let's Connect
 - **LinkedIn:** https://linkedin.com/in/manaseslovera
-- **Portfolio:** https://manaseslovera.github.io   _Need to update this..._
+- **Portfolio:** https://mlovera.dev
 
 *"Automating the boring stuff, one AI agent at a time."*
