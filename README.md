@@ -17,25 +17,26 @@ Here are some ideas to get you started:
 
 
 
-### Software Engineer at Tagshelf
+### Software & AI Engineer
 I'm a backend-focused engineer passionate about **AI/ML**, **Cloud Infrastructure**, and **Low-level Systems**. I spend my time building intelligent automation and exploring the depths of Linux.
 
 ---
 
 ### 🛠 Tools & Technologies
 
-- **Languages:** Python, TypeScript (Node.js), C# (ASP.NET)
-- **Frontend:** Javascript, Typescript, React, Nextjs
-- **Backend Frameworks:** Expressjs, Nestjs, ASP .NET Core / Framework, FastAPI, Flask.
-- **AI & Machine Learning:** PyTorch, Scikit-learn, LangChain, OpenAI/Gemini APIs, Document AI, Ollama
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Azure, Linux Systems, Docker, Kubernetes, Github Actions
-- **Databases:** PostgreSQL, MongoDB, SQL Server, Oracle
+- **Languages:** Python, TypeScript (Node.js/Bun), C# (ASP .NET).
+- **Frontend:** Javascript, Typescript, React, Nextjs.
+- **Backend Frameworks:** Expressjs, ASP .NET Core / Framework, FastAPI.
+- **AI & Machine Learning:** PyTorch, Scikit-learn, LangChain, LangGraph, Document AI (google), Ollama, HuggingFace.
+- **AI Providers:** OpenAI, Anthropic, Ollama Cloud, OpenRouter, OpenCode, Groq.
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Azure, Linux Systems, Docker, Kubernetes, Github Actions, GitOps.
+- **Databases:** PostgreSQL, MongoDB, SQL Server, Oracle.
+- **Harness Tools:** Claude Code, Codex, Antigravity, Hermes, OpenClaw.
 
 ---
 
 ### 🎯 Learning Path & Goals
 - **Current Focus:** Mastering Linux, Cloud Infrastructure & systems administration.
-- **Languages:** Get hands on experience in **Golang** for high-performance CLI tools and Backend Apps.
 - **AI:** Scaling from ML to advanced **Deep Learning** architectures.
 - **Aspirations:** Contributing to Open Source and building the next generation of AI-driven process automation.
 
